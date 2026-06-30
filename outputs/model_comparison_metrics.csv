@@ -1,0 +1,3 @@
+model,management_efficiency,prediction_accuracy,stability_score,computation_time_seconds,mae,rmse,r2_score
+Simulation-Validation,70.2419,96.9681,83.5053,0.0002,3.0319,3.6655,0.2648
+BP Neural Network,72.058,97.5528,86.7417,1.1056,2.4472,2.9463,0.525
